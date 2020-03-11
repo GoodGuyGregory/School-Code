@@ -1,0 +1,16 @@
+﻿  BoolWrapper.cpp
+..\wrapper\class\BoolWrapper.cpp(54): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CharWrapper.cpp
+..\wrapper\class\CharWrapper.cpp(40): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FileBase.cpp
+..\wrapper\class\FileBase.cpp(476): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FloatWrapper.cpp
+..\wrapper\class\FloatWrapper.cpp(40): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  IntWrapper.cpp
+..\wrapper\class\IntWrapper.cpp(37): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  LongWrapper.cpp
+..\wrapper\class\LongWrapper.cpp(39): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Text.cpp
+..\wrapper\class\Text.cpp(701): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  driver.cpp
+driver.cpp(157): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
